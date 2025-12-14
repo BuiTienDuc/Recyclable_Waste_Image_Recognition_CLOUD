@@ -26,3 +26,7 @@ git commit -m "Add git commands notes"
 git push origin main
 
 
+git status
+git add runtime.txt requirements.txt
+git commit -m "Force Python 3.10 for TensorFlow compatibility"
+git push origin main
